@@ -1,4 +1,4 @@
-# ETB_DBMS-OYO-Hotels-341012_341023_341052-Group-16
+# OYO-Hotels Booking System Database Design
 Relational database design for an OYO hotel booking system using MySQL
 
 ![ETB_DBMS-OYO-Hotel-Booking-System](ER_diagram.png)
