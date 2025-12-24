@@ -10,11 +10,11 @@ Relational database design for an OYO hotel booking system using MySQL
 ## Objectives
 The objective of this project is to design and implement a relational database system for an OYO-style hotel management platform using SQL. The project aims to:
 
-⦁ Store and manage hotel, room, and customer information
-⦁	Handle bookings, payments, and customer reviews efficiently
-⦁	Maintain hotel staff and loyalty program data
-⦁	Apply core SQL concepts such as DDL, DML, joins, aggregate functions, subqueries, and date functions
-⦁	Simulate real-world hotel booking and management operations
+⦁ Store and manage hotel, room, and customer information.
+⦁	Handle bookings, payments, and customer reviews efficiently.
+⦁	Maintain hotel staff and loyalty program data.
+⦁	Apply core SQL concepts such as DDL, DML, joins, aggregate functions, subqueries, and date functions.
+⦁	Simulate real-world hotel booking and management operations.
 
 ## Tools Used
 MySQL,
